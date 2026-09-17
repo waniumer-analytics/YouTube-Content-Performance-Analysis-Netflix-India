@@ -61,4 +61,8 @@ https://www.linkedin.com/posts/waniumer-analytics_codebasics-virtualinternship2-
 # Power Bi :-
 https://app.powerbi.com/view?r=eyJrIjoiOTUzZTlkMjEtNmVmNC00YjgyLTg0ODUtZTcwM2RiMGZiOWJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
+# Video Presentation :- 
+
+https://www.youtube.com/embed/vR74nUzbBs4?utm_source=chatgpt.com
+
 
