@@ -54,6 +54,11 @@ This project analyzes Netflix YouTube video performance data to identify the key
 7. Business Intelligence
 
 
-# Linkedin:-  https://www.linkedin.com/posts/waniumer-analytics_codebasics-virtualinternship2-atliqtechnolgies-share-7500751653327974400-gyZx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNS0HwB-OAdiVBbiM-Z0IdF32qvthi_XwE 
+# Linkedin:- 
 
-# Power Bi :- https://app.powerbi.com/groups/me/reports/075c8b00-047e-44ef-ba46-b5254a29e9c8/9bba990c9e03c6cc3ad4?experience=power-bi 
+https://www.linkedin.com/posts/waniumer-analytics_codebasics-virtualinternship2-atliqtechnolgies-share-7500751653327974400-gyZx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNS0HwB-OAdiVBbiM-Z0IdF32qvthi_XwE 
+
+# Power Bi :-
+https://app.powerbi.com/view?r=eyJrIjoiOTUzZTlkMjEtNmVmNC00YjgyLTg0ODUtZTcwM2RiMGZiOWJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+
