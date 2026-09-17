@@ -1,19 +1,19 @@
-                                                  # Netflix Youtube-content-performance-analysis
+ # YouTube Content Performance Analysis — Netflix India
 
 
 This project analyzes Netflix YouTube video performance data to identify the key factors influencing views, engagement, publishing strategy, content performance, and metadata optimization. The analysis was conducted using Microsoft Power BI, with data transformation performed in Power Query and analytical measures created using DAX. The final dashboard enables stakeholders to evaluate content performance and identify opportunities for improving content strategy and publishing decisions.
 
 ## Dashboard Preview
 
-                                                      # Executive view
+                                                       Executive view
 
 <img width="1408" height="794" alt="Screenshot 2026-09-02 075919" src="https://github.com/user-attachments/assets/8e06b2ce-4791-4e06-b589-5b5715e8fc61" />
 
-                                                  # Content Performance Analysis
+                                                   Content Performance Analysis
 
 <img width="1405" height="791" alt="Screenshot 2026-09-02 074357" src="https://github.com/user-attachments/assets/54097acf-111a-40ab-b7c6-9dc81db08237" />
 
-                                                  # Metadata & Content Optimization
+                                                    Metadata & Content Optimization
 
 <img width="1398" height="787" alt="Screenshot 2026-09-02 074412" src="https://github.com/user-attachments/assets/78aa539b-fba7-40ba-bdb1-1d56f781e4e0" />
 
@@ -65,4 +65,6 @@ https://app.powerbi.com/view?r=eyJrIjoiOTUzZTlkMjEtNmVmNC00YjgyLTg0ODUtZTcwM2RiM
 
 https://www.youtube.com/embed/vR74nUzbBs4?utm_source=chatgpt.com
 
-
+# AUTHOR
+WANI UMER.
+Data Analyst | Business Intelligence | Customer & Performance Analytics
